@@ -12,7 +12,7 @@ header{
     width: 100%;
     padding: 0 10vw ;
     background-color: rgba(0, 0, 0, 0.948);
-    background-image: linear-gradient(0deg,rgba(0,0,0,.8) 0,transparent 10%,rgba(0,0,0,.8)), url(./andrew-coelho-aL7SA1ASVdQ-unsplash.jpg);
+    background-image: linear-gradient(0deg,rgba(0,0,0,.8) 0,transparent 10%,rgba(0,0,0,.8)), url(./assets/andrew-coelho-aL7SA1ASVdQ-unsplash.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -100,7 +100,7 @@ nav ul li a:hover{
 #Brows_event{
     height: 100vh;
     width: 100%;
-    background-image:linear-gradient(0deg,rgba(0,0,0,.8) 0,transparent 60%,rgba(0,0,0,.8)), url(./gustavo-leighton-3v4MnhCaTO4-unsplash.jpg);
+    background-image:linear-gradient(0deg,rgba(0,0,0,.8) 0,transparent 60%,rgba(0,0,0,.8)), url(./assets/gustavo-leighton-3v4MnhCaTO4-unsplash.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
